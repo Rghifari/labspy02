@@ -1,3 +1,9 @@
+```
+Nama    : Muhammad Rafi Al Ghifari
+Nim     : 312110526
+Kelas   : TI.21.BA.1
+```
+
 # labspy02
 Tugas Praktikum 2
 
@@ -35,5 +41,4 @@ print (c,'bilangan terbesar =',c)
   3. Bilangan Ketiga yang menjadi bilangan terbesar
   <img width="960" alt="3" src="https://user-images.githubusercontent.com/93661771/140650979-6093137f-a267-4576-832c-5dbcc63afac5.PNG">
 
-# Terima Kasih
-# MUHAMMAD RAFI AL GHIFARI - TI.21.BA.1
+# Sekian & Terima Kasih
